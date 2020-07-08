@@ -93,6 +93,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 * [van der Molen genealogie](http://www.vdrmolen.com/genealogie-van-der-molen/webtrees-bridge)- webtrees embedded in Joomla.
 * [Våre familier](https://visitusinmaputo.com/webtree)    
 * [Verrips Family Tree](https://verrips.com)
-* [verwandten.info](http://www.verwandten.info/joomla/familienbuecher) - webtrees embedded in Joomla, custom theme.
+* [verwandten.info](https://www.verwandten.info/joomla/familienbuecher) - webtrees embedded in Joomla, custom theme.
 * [Wij zijn familie](https://wijzijnfamilie.nl) - JustLight themes and other modules
 * [睢宁王氏家族网](https://www.snwsjz.com) - Custom theme and other modifications.
